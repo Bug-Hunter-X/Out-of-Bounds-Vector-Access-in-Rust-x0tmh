@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: out-of-bounds vector access. The `bug.rs` file contains code that attempts to access an element beyond the vector's bounds.  The `bugSolution.rs` file shows how to correct this error using safe Rust techniques.  This example highlights the importance of bounds checking in Rust to prevent runtime panics.
